@@ -3,9 +3,9 @@ title: "EVmiRED: a curated database of miRNA editing landscape in extracellular 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'EVmiRED (Extracellular Vesicle miRNA Editing Database), a resource that integrates miRNA expression and editing profiles from tumor-derived EVs. '
 date: 2026-04-09
-venue: 'Advanced Biotechnology'
+venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
