@@ -12,25 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in , University, (expected)
-* M.S. in , 2014
-* B.S. in, 2012
+* M.S. in Mainland China, Sun Yat-sen University, 2026
+* B.S. in Macau, University of Macau, 2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2023 - Fall 2026:
+  * Sun Yat-sen University
+  * Projects: RNA editing, ADAR substrates
+  * Supervisor: Zhang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -44,18 +36,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
